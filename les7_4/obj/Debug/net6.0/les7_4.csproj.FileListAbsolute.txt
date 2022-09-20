@@ -1,0 +1,15 @@
+C:\Users\BestCat\Desktop\Lession_6\les7_4\bin\Debug\net6.0\les7_4.exe
+C:\Users\BestCat\Desktop\Lession_6\les7_4\bin\Debug\net6.0\les7_4.deps.json
+C:\Users\BestCat\Desktop\Lession_6\les7_4\bin\Debug\net6.0\les7_4.runtimeconfig.json
+C:\Users\BestCat\Desktop\Lession_6\les7_4\bin\Debug\net6.0\les7_4.dll
+C:\Users\BestCat\Desktop\Lession_6\les7_4\bin\Debug\net6.0\les7_4.pdb
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\les7_4.csproj.AssemblyReference.cache
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\les7_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\les7_4.AssemblyInfoInputs.cache
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\les7_4.AssemblyInfo.cs
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\les7_4.csproj.CoreCompileInputs.cache
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\les7_4.dll
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\refint\les7_4.dll
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\les7_4.pdb
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\les7_4.genruntimeconfig.cache
+C:\Users\BestCat\Desktop\Lession_6\les7_4\obj\Debug\net6.0\ref\les7_4.dll
